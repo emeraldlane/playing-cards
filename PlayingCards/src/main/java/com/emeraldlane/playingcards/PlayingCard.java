@@ -1,7 +1,7 @@
 package com.emeraldlane.playingcards;
 
 /**
- * The PlayingCard class models a standard poker playing card with suit, rank, and color.  
+ * The PlayingCard class models a standard poker-style playing card with suit, rank, and color.  
  * 
  * @author jhenry
  *

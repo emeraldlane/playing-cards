@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.TreeMap;
 
 /**
- * The PokerDeck class is a collection of 52 unique playing cards across four suits and 13 ranks. 
+ * The PokerDeck class is a collection of 52 unique poker-style playing cards across four suits and 13 ranks. 
  * Cards can be randomized with a call to shuffle() and dealt with a call to dealOneCard(). 
  * 
  * @author jhenry
@@ -61,7 +61,7 @@ public class PokerDeck {
 	/**
 	 * Removes the last playing card from the deck and returns it.
 	 * 
-	 * @return the playing card removed from the deck
+	 * @return the playing card removed from the deck or null if the deck is empty.
 	 */
 	public PlayingCard dealOneCard() {
 		PlayingCard card;

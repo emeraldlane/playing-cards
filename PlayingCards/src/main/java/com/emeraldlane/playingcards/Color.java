@@ -1,7 +1,7 @@
 package com.emeraldlane.playingcards;
 
 /**
- * The colors of a Poker style playing card, red or black. 
+ * The colors of a poker-style playing card, red or black. 
  * 
  * @author jhenry
  *
